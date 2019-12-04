@@ -1,1 +1,3 @@
 this is new file with info 
+
+this is first git file
